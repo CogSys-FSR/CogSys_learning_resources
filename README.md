@@ -1,19 +1,17 @@
 # About
-📚 **Welcome to the CogSys Learning Resources Repo**
-This repository collects helpful materials, tips, and recommendations from students for students in the Cognitive Systems Master's program. Whether you're looking for guidance on a tough course, useful links, or just want to get a head start—this is a place to share and grow together.  
-You don’t need to go through everything at once—just explore what’s relevant to you right now, and see what’s helped your fellow students along the way.
-
+📚 **Welcome to the CogSys Learning Resources Repo** <br>
+This repository collects helpful materials, tips, and recommendations from students for students in the Cognitive Systems Master's program. Whether you're looking for guidance on a tough course, useful links, or just want to get a head start—this is a place to share and grow together. <br>
+You don’t need to go through everything at once—just explore what’s relevant to you right now, and see what’s helped your fellow students along the way. <br><br>
 If any link is broken, please help maintaining this shared resource by submitting an Issue. 
 
-🌱 **A Note from Your Student Council (FSR)**
-Not every program has a student council—so if you’ve benefited from the work of the FSR, please don’t take it for granted. We’re a small group of current CogSys students working to support and connect our community.
-If you have the capacity, please consider giving back:
- 💡 Contribute to this repo by submitting a pull request,
- 🤝 Or join the FSR and help shape the future of our program.
+🌱 **A Note from Your Student Council (FSR)** <br>
+Not every program has a student council—so if you’ve benefited from the work of the FSR, please don’t take it for granted. We’re a small group of current CogSys students working to support and connect our community. If you have the capacity, please consider giving back: <br>
+💡 Contribute to this repo by submitting a pull request, <br>
+🤝 Or join the FSR and help shape the future of our program. <br><br>
 Let’s keep CogSys an evergreen, collaborative, and welcoming community. 🌿
 
-💬 **Share Your Experience – Help Others Learn Better!**
-Besides resources listed in README, there is a separate file of personal feedback or "testimony" in the repo. We invite you to make a pull request to add your own comments: Describe how the resource helped you personally or why you found it useful (e.g., clarified a tough topic, great project ideas, beginner-friendly)
+💬 **Share Your Experience – Help Others Learn Better!** <br>
+Besides resources listed in README, there is a separate file of personal feedback or "testimony" in the repo. We invite you to make a pull request to add your own comments: Describe how the resource helped you personally or why you found it useful (e.g., clarified a tough topic, great project ideas, beginner-friendly). <br>
 
 👥 These reflections are incredibly valuable for other students navigating the same challenges.
 
@@ -26,7 +24,7 @@ Let’s build a resource hub that grows through shared experience, not just link
 
 # How to Add a Reference
 Please follow this format when adding a reference to help keep the repository organized and useful for everyone.
-Required Information
+Required Information: 
 
 | Name  | Description  |
 |---|---|
