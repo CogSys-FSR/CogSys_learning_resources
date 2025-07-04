@@ -40,7 +40,7 @@ Required Information:
 | Computing tools for CS studies  | tooling, command line, Git, GitHub  | Introduction to common usages of command line and Git/GitHub.   |  https://tkt-lapio.github.io/command-line/ |
 | git - the simple guide  | tooling, Git  | Introduction to Git with good visual design.  | https://rogerdudler.github.io/git-guide/  |
 | Introduction to Mathematical Thinking  | logic, reasoning, mathematical modeling  | This Coursera course helps you think like a mathematician, not just perform calculations. The part on logic reasoning might provide an easier entry to things like ASP.   |  https://www.coursera.org/learn/mathematical-thinking#modules |
-| MITx: Introduction to Computer Science and Programming Using Python  | Python  | University-level Python introductory course.  | https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python |
+| MITx: Introduction to Computer Science and Programming Using Python  | Python  | University-level Python introductory course, not just language features, but also touches algorithms, complexity, etc.  | https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python |
 | python-engineer-notebooks  | Python  | Features of Python that you may or may not know, from basic to advanced.  | https://github.com/patrickloeber/python-engineer-notebooks/tree/master  |
 |     |     |     |     |
 |     |     |     |     |
