@@ -42,7 +42,7 @@ Required Information:
 | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking#modules)  | logic, reasoning, mathematical modeling  | This Coursera course helps you think like a mathematician, not just perform calculations. The part on logic reasoning might provide an easier entry to things like ASP.   |
 | [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)  | Python  | University-level Python introductory course, not just language features, but also touches algorithms, complexity, etc.  |
 | [python-engineer-notebooks](https://github.com/patrickloeber/python-engineer-notebooks/tree/master)  | Python  | Features of Python that you may or may not know, from basic to advanced.  |
-|     |     |     |
+| [Probabilistic Machine Learning](https://probml.github.io/pml-book/) | ML, statistics | An overview for any ML problem you could think of, contains intuitive explanations and mathematical formulas. |
 |     |     |     |
 |     |     |     |
 |     |     |     |
